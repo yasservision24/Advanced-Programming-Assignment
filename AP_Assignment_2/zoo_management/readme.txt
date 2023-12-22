@@ -1,3 +1,8 @@
+Way to login in admin account.
+
+username-admin
+password-admin123
+
 ZooBuddies - Zoo Management Application
 ZooBuddies is a revolutionary zoo management application designed to provide visitors with an immersive and educational experience in the animal kingdom. With features catering to both administrators and visitors, ZooBuddies ensures a seamless interaction with the wonders of the zoo.
 
